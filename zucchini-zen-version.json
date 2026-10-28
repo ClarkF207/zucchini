@@ -1,5 +1,1 @@
-{
-  "version": 3,
-  "zipUrl": "https://github.com/ClarkF207/zucchini/releases/download/zen-build-3/zucchini-zen-1.23.4b-win64-mesh.zip",
-  "notes": "Zucchini Zen edition build 3: Zen 1.23.4b, mesh built in, toddler logo, PDF dark mode, ZenDark bundled, performance defaults, update-on-launch."
-}
+{"version": 4, "zipUrl": "https://github.com/ClarkF207/zucchini/releases/download/zen-build-4/zucchini-zen-1.23.4b-win64-mesh.zip", "notes": "Zucchini Zen edition build 4: Task Manager now shows Zucchini (not Zen), desktop/taskbar icon is the transparent toddler shape (no sharp square), installer code-1 root-cause fix."}
